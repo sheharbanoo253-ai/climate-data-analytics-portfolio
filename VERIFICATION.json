@@ -1,0 +1,13 @@
+{
+  "python_output": true,
+  "sql_outputs": 3,
+  "excel_exists": true,
+  "R_executed": false,
+  "tableau_native_created": false,
+  "datasets": {
+    "co2": 2284,
+    "enso": 61,
+    "grunfeld": 220,
+    "macrodata": 203
+  }
+}
